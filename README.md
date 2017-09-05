@@ -1,5 +1,5 @@
 # Netease-Music-Player Mac Version
-to see this demo, goto [my site](http://jonham.cn/demo/netease-player/)
+to see this demo, goto [my site](http://jonham.cn/github/netease-player-for-pc)
 
 > A Vue.js project. base on vue-cli webpack template.
 
