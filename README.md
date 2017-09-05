@@ -1,6 +1,7 @@
-# netease-player
+# Netease-Music-Player Mac Version
+to see this demo, goto [my site](http://jonham.cn/demo/netease-player/)
 
-> A Vue.js project
+> A Vue.js project. base on vue-cli webpack template.
 
 ## Build Setup
 
@@ -17,14 +18,4 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
